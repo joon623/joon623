@@ -1,7 +1,7 @@
-# Frontend Developer
+## Frontend Developer
 - Wecode bootcamp 
 
-# Interest
+## Interest
 - REACT
 - HTML, CSS, JAVASCRIPT 
 <!--
