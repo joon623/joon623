@@ -1,4 +1,5 @@
 ## Frontend Developer 👋
+안녕하세요 프론트엔드 개발자 박남준입니다. 
 
 ## Interest
 - REACT
