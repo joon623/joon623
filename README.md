@@ -3,7 +3,7 @@
 
 ## Interest
 - REACT.js
-- HTML, CSS, JAVASCRIPT 
+- HTML5, CSS3, JAVASCRIPT(es6+) 
 
 ## Contact Me
 
