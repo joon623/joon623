@@ -5,7 +5,9 @@
 - REACT
 - HTML, CSS, JAVASCRIPT 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joon623&layout=compact)](https://github.com/joon623/github-readme-stats)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjoon623@gmail.com)](mailto:snugyun01@gmail.com)
+
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:devjoon623@gmail.com" alt="Gmail Badge">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joon623)](https://github.com/joon623/github-readme-stats)
 <!--
