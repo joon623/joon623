@@ -1,5 +1,4 @@
-## Frontend Developer
-- Wecode bootcamp 
+## Frontend Developer 👋
 
 ## Interest
 - REACT
