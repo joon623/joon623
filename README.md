@@ -1,6 +1,10 @@
 ## Frontend Developer 👋
 안녕하세요 프론트엔드 개발자 박남준입니다. 
 
+함께 일하고 싶은 개발자가 되고 싶습니다.
+항상 발전하려 노력합니다. 
+행복하고 재밌게 개발을 하고 싶습니다.
+
 ## Interest
 - REACT.js
 - HTML5, CSS3, JAVASCRIPT(es6+) 
