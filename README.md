@@ -5,9 +5,14 @@
 항상 발전하려는 습관과 태도를 가지고 있습니다. <br/>
 모두가 함께하고 싶어하는 개발자가 되고 싶습니다.
 
-## Interest
-- REACT.js
-- HTML5, CSS3, JAVASCRIPT(es6+) 
+## Skill set
+- HTML5 & CSS3
+- Javascript(Es6+)
+- React.js
+- Redux
+- Sass, Styled Component
+- Git & Github
+- Scrum
 
 ## Contact Me
 
