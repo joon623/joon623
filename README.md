@@ -5,7 +5,7 @@
 항상 발전하려는 습관과 태도를 가지고 있습니다. <br/>
 모두가 함께하고 싶어하는 개발자가 되고 싶습니다.
 
-## Skill set
+## Skill 🔨
 - HTML5 & CSS3
 - Javascript(Es6+)
 - React.js
@@ -14,11 +14,11 @@
 - Git & Github
 - Scrum
 
-## Interest
+## Interest 💫
 - Frontend Developer
-- Design
-- badminton, football, weight training
-- blog
+- Book
+- Badminton, Football, Weight Training
+- Blog
 
 ## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjoon623@gmail.com)](mailto:snugyun01@gmail.com)
