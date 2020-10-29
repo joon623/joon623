@@ -14,8 +14,13 @@
 - Git & Github
 - Scrum
 
-## Contact Me
+## Interest
+- Frontend Developer
+- Design
+- badminton, football, weight training
+- blog
 
+## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjoon623@gmail.com)](mailto:snugyun01@gmail.com)
 
 
