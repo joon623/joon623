@@ -16,9 +16,10 @@
 
 ## Interest 💫
 - Frontend Developer
-- Book
-- Badminton, Football, Weight Training
+- Reading
 - Blog
+- Badminton, Football, Weight Training
+
 
 ## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjoon623@gmail.com)](mailto:snugyun01@gmail.com)
