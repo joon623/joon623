@@ -7,12 +7,19 @@
 
 ## Skill 🔨
 - HTML5 & CSS3
-- Javascript(Es6+)
+- Javascript(Es6+), Typescript
 - React.js
-- Redux
+- Redux, Mobx 
 - Sass, Styled Component
 - Git & Github
 - Scrum
+
+- Android 
+- Kotlin 
+- Retrofit2, Okhttp3, Json
+- Coroutine, RxKotlin
+- Data binding, View binding, Recyclerview, ContstraintLayout
+- MVP, MVVM(studying...)
 
 ## Interest 💫
 - Frontend Developer
