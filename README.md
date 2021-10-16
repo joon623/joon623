@@ -12,8 +12,7 @@
 - React.js
 - Redux, Mobx 
 - Sass, Styled Component
-- Git & Github
-- Scrum
+- Webpack, Babel (studying..)
 
 ### Android 
 - Kotlin 
