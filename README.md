@@ -6,6 +6,7 @@
 모두가 함께하고 싶어하는 개발자가 되고 싶습니다.
 
 ## Skill 🔨
+### Web 
 - HTML5 & CSS3
 - Javascript(Es6+), Typescript
 - React.js
@@ -14,7 +15,7 @@
 - Git & Github
 - Scrum
 
-- Android 
+### Android 
 - Kotlin 
 - Retrofit2, Okhttp3, Json
 - Coroutine, RxKotlin
