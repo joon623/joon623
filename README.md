@@ -11,15 +11,15 @@
 - Javascript(Es6+), Typescript
 - React.js
 - Redux, Mobx 
-- Sass, Styled Component
-- Webpack, Babel (studying..)
+- Sass, Styled Component, Emotion
+- Webpack, Babel
 
 ### Android 
 - Kotlin 
 - Retrofit2, Okhttp3, Json
 - Coroutine, RxKotlin
 - Data binding, View binding, Recyclerview, ContstraintLayout
-- MVP, MVVM(studying...)
+- MVC, MVP, MVVM
 
 ## Interest 💫
 - Frontend Developer
