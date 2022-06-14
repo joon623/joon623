@@ -9,10 +9,11 @@
 ### Web 
 - HTML5 & CSS3
 - Javascript(Es6+), Typescript
-- React.js
-- Redux, Mobx 
-- Sass, Styled Component, Emotion
+- React.js, Next.js, React-native
+- Redux, Mobx, Recoil, React Query
+- Styletron ,SCSS, Styled Component, Emotion, Baseweb
 - Webpack, Babel
+- Vercel, AWS
 
 ### Android 
 - Kotlin 
