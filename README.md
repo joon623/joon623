@@ -13,7 +13,7 @@
 - Redux, Mobx, Recoil, React Query
 - Styletron ,SCSS, Styled Component, Emotion, Baseweb
 - Webpack, Babel
-- Vercel, AWS
+- Vercel, AWS, NX
 
 ### Android 
 - Kotlin 
