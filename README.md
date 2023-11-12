@@ -11,7 +11,7 @@
 - Javascript(Es6+), Typescript
 - React.js, Next.js, React-native
 - Recoil, Jotai, Mobx, React Query, Redux
-- Tailwind, Styletron ,SCSS, Styled Component, Emotion, Baseweb
+- Tailwind, Styletron , Scss, Styled Component, Emotion, Baseweb
 - Webpack, Babel
 - Vercel, AWS, Nx
 
