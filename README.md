@@ -10,8 +10,8 @@
 - HTML5 & CSS3
 - Javascript(Es6+), Typescript
 - React.js, Next.js, React-native
-- Redux, Mobx, Recoil, React Query
-- Styletron ,SCSS, Styled Component, Emotion, Baseweb
+- Recoil, Jotai, Mobx, React Query, Redux
+- Tailwind, Styletron ,SCSS, Styled Component, Emotion, Baseweb
 - Webpack, Babel
 - Vercel, AWS, Nx
 
