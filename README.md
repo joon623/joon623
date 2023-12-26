@@ -1,4 +1,4 @@
-## Software Engineer 👋
+## Software Engineer 👋
 안녕하세요 개발자 박남준입니다. 
 
 <b>습관이 인생이고 태도가 전부라고 생각합니다.</b>  <br/>
